@@ -1,0 +1,15 @@
+C:\Split\Split\bin\Release\SonarHooks.exe.config
+C:\Split\Split\bin\Release\SonarHooks.exe
+C:\Split\Split\bin\Release\SonarHooks.pdb
+C:\Split\Split\obj\Release\Split.csprojAssemblyReference.cache
+C:\Split\Split\obj\Release\MainWindow.g.cs
+C:\Split\Split\obj\Release\App.g.cs
+C:\Split\Split\obj\Release\SonarHooks_MarkupCompile.cache
+C:\Split\Split\obj\Release\SonarHooks_MarkupCompile.lref
+C:\Split\Split\obj\Release\MainWindow.baml
+C:\Split\Split\obj\Release\SonarHooks.g.resources
+C:\Split\Split\obj\Release\Split.Properties.Resources.resources
+C:\Split\Split\obj\Release\Split.csproj.GenerateResource.cache
+C:\Split\Split\obj\Release\Split.csproj.CoreCompileInputs.cache
+C:\Split\Split\obj\Release\SonarHooks.exe
+C:\Split\Split\obj\Release\SonarHooks.pdb
