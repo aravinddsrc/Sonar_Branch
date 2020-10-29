@@ -13,6 +13,7 @@ namespace Split
     {
         public MainWindow()
         {
+            var password="";
             InitializeComponent();
             resumestart();  // Removing Temp
             Trigger();  // Create Buttons
