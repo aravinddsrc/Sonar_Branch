@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Split\Split.csproj", "{7397E0D1-33E9-4F56-BE41-977240C17625}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split1", "Split\Split.csproj", "{7397E0D1-33E9-4F56-BE41-977240C17625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
