@@ -3,8 +3,8 @@ node {
     checkout scm
   }
   stage('SonarQube Analysis') {
-    def msbuildHome = tool 'Default MSBuild'
-    def scannerHome = tool 'SonarScanner for MSBuild'
+    def msbuildHome = tool 'MS19'
+    def scannerHome = tool 'SONAR SCANNER MS'
     withSonarQubeEnv() {
       bat "\"${scannerHome}\\SonarScanner.MSBuild.exe\" begin /k:\"aravinddsrc_Sonar_Branch\""
       bat "\"${msbuildHome}\\MSBuild.exe\" /t:Rebuild"
