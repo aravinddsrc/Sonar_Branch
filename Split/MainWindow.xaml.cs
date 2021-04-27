@@ -15,6 +15,7 @@ namespace Split
         {
         //TEST
         //TEST2
+        //Test3
             InitializeComponent();
             resumestart();  // Removing Temp
             Trigger();  // Create Buttons
