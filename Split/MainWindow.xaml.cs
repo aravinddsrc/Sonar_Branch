@@ -24,6 +24,7 @@ namespace Split
         }
         public void Trigger()
         {
+            var password="password";
             string[] filePaths = Directory.GetFiles(AppDomain.CurrentDomain.BaseDirectory, "*.bat");
             foreach (var item in filePaths)
             {
